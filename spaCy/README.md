@@ -1,7 +1,8 @@
 ````markdown
 # spaCy NLP Project – In-Depth Overview
 
-This project uses **spaCy**, a high-performance and production-grade library for **Natural Language Processing (NLP)** in Python. It's widely used in the industry for tasks such as information extraction, chatbot development, document analysis, and more.
+This project uses **spaCy**, a high-performance and production-grade library for **Natural Language Processing (NLP)** in Python.
+It's widely used in the industry for tasks such as information extraction, chatbot development, document analysis, and more.
 
 ---
 
